@@ -1,0 +1,4 @@
+Python script takes in .cfg file, via command line argument, and fetch CSV data.
+Runs cross correlations on data sets and computes r values. Writes output to XML.
+Bash script allows automated checking for .cfg files in specified directory.
+ 
